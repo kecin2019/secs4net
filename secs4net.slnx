@@ -3,6 +3,7 @@
     <Platform Name="Any CPU" />
   </Configurations>
   <Folder Name="/sample/">
+    <Project Path="samples/CommunicationBasics/CommunicationBasics.csproj" />
     <Project Path="samples/DeviceWorkerService/DeviceWorkerService.csproj" />
     <Project Path="samples/SecsDevice/SecsDevice.csproj" />
     <Project Path="samples/WpfVisualizer/WpfVisualizer.csproj" />
